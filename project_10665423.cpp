@@ -1,3 +1,7 @@
+//Semester Project - SCHOOL MANAGEMENT SYSTEM
+//This project is about a school management system aimed at increasing productivity
+//All codes written by student
+
 #include <iostream>
 #include <fstream>
 #include <windows.h>
